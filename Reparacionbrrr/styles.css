@@ -1,0 +1,95 @@
+/* use this to put borders around things... */
+body {
+
+background-color:pink;
+font-family: 'Architects Daughter', cursive;
+font-family: 'Lora', serif;
+}
+
+.cuadro1{color:black;
+	 background-color:;
+	 margin: 70px 70px 70px 15px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 0px solid black;
+
+
+}
+
+.cuadro2{color:black;
+	 background-color:;
+	 margin: 70px 70px 70px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 0px solid black;
+}
+
+.cuadro3{color:black;
+	 background-color:;
+	 margin: 70px 70px 70px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 0px solid black;
+
+	
+}
+
+.cuadro4{color:black;
+	 background-color:;
+	 margin: 70px 70px 70px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 0px solid black;
+
+	
+}
+
+.cuadro5{color:black;
+	 background-color:;
+	 margin: 70px 70px 70px 10px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 0px solid black;
+
+}
+.cuadrito9{ background-color: lightblue; 
+	margin: 150px 15px 15px 500px;
+    padding: 10px 10px 10px 10px;
+	width: 350px;
+	height: 350px;
+	border: 10px solid black;
+	
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.thin_border{
+	border: 3px solid black;
+}
+
+
+.caja{
+	background-color: lightblue;
+	margin: 150px 15px 15px 15px;
+	width: 200px;
+	height: 200px;
+	border: 3px solid black;
+}
+
+.g{font-size:30
+}
